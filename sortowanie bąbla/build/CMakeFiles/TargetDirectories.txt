@@ -1,0 +1,3 @@
+/home/dawid/Desktop/code/sortowanie bąbla/build/CMakeFiles/project.dir
+/home/dawid/Desktop/code/sortowanie bąbla/build/CMakeFiles/edit_cache.dir
+/home/dawid/Desktop/code/sortowanie bąbla/build/CMakeFiles/rebuild_cache.dir
